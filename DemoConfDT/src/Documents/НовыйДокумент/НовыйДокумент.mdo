@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dee6061e-1014-4aaf-aa48-6977cbb9306d">
+  <producedTypes>
+    <objectType typeId="94615781-ed29-4842-a5f5-cb13dbd81f00" valueTypeId="046e100f-0b00-483f-ad85-ab69e9a947a9"/>
+    <refType typeId="f5e10601-a0d2-4b6c-8bac-efe1388778c9" valueTypeId="e7dd6490-5d69-4b67-9e98-8575c0be2905"/>
+    <selectionType typeId="487ddfe7-4b1a-4e24-bd0c-e401eafdba09" valueTypeId="e9bbffc6-070a-4e5b-b677-4f912fe11083"/>
+    <listType typeId="e5e3ae15-88b0-4764-bdd7-3218a12b173c" valueTypeId="62fd4f51-58b8-4482-8b39-c1d23d04c09c"/>
+    <managerType typeId="c34e25e1-ba19-4326-bcd2-74e0249a8898" valueTypeId="239a39b1-667f-4d66-85fc-075cd7b38839"/>
+  </producedTypes>
+  <name>НовыйДокумент</name>
+  <synonym>
+    <key>ru</key>
+    <value>Новый документ</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.НовыйДокумент.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>
